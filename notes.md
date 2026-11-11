@@ -1,2 +1,2 @@
-This is my sample repository notes
+This is my sample repository notes. Updated
 
